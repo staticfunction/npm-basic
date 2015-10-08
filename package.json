@@ -1,0 +1,14 @@
+{
+  "name": "npm-basic",
+  "version": "1.0.0",
+  "description": "Basic usage of NPM",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md npm.md"
+  },
+  "author": "James Roland Cabresos <james.cabresos@gmail.com> (staticfunction.wordpress.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "reveal-md": "0.0.22"
+  }
+}
